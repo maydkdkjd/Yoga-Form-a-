@@ -25,3 +25,5 @@ ER Diagram -
 | created_at     |      +----------------------+     | created_at      |
 +----------------+                                  +-----------------+
 Note - I have not created payment table as it was clearly stated in the problem statement that we don't need to implement it.
+
+Get all the data here - https://yoga-8bvo.onrender.com/users
